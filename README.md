@@ -1,6 +1,4 @@
-# Homework 11
-
-## Risky Business
+# Risky Business
 
 My name is Oscar Lopez, a student at the University of Miami FinTech Bootcamp course.
 
